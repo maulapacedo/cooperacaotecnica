@@ -6,6 +6,6 @@ O COBRADI, levando em consideração os princípios do governo aberto, disponibi
 
 O script Afastamentos_2021 foi desenvolvido em Rmarkdown e é referente ao relatório do Valor da Hora Técnica.
 
-O script app foi desenvolvido em ShinyApps e se trata de uma aplicação web, com cunho interativo, para a determinação do Valor da Hora Técnica. 
+O script cobradi_app foi desenvolvido em ShinyApps e se trata de uma aplicação web, com cunho interativo, para a determinação do Valor da Hora Técnica. 
 
 
